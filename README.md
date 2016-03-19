@@ -1,6 +1,6 @@
 # Federal School Codes
 
-A listing of Federal School Codes in JSON format.
+A repository of [Federal School Codes](https://ifap.ed.gov/ifap/fedSchoolCodeList.jsp) in JSON format.
 
 Generated with the [get-federal-school-code-json](https://github.com/loganfranken/get-federal-school-code-json)
 command line utility.
